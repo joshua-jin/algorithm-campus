@@ -1,4 +1,4 @@
-class Solution {
+public class Fibonacci {
     /**
      * @param n: an integer
      * @return an integer f(n)
