@@ -8,18 +8,28 @@ package com.lintcode;
 public class RemoveLinkedListElements {
     public ListNode removeElements(ListNode head, int val) {
         // Write your code here
-        if (head == null || head.val == val) {
+        if (head == null) {
             return null;
         }
-        for (ListNode node = head; node.next != null;) {
-            if (node.next.val == val) {
-                node.next = node.next.next;
-            }
-            else {
-                node = node.next;
-            }
+
+        ListNode dummyNode = new ListNode(0);
+        dummyNode.next = head;
+        removeNode(dummyNode, val);
+        return dummyNode.next;
+    }
+
+    private void removeNode(ListNode node, int val) {
+        if (node.next == null) {
+            return;
         }
-        return head;
+
+        if (node.next.val == val) {
+            node.next = node.next.next;
+        }
+        else {
+            node = node.next;
+        }
+        removeNode(node, val);
     }
 
 }
