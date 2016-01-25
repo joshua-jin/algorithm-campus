@@ -1,6 +1,7 @@
 # Finished
 - http://www.lintcode.com/zh-cn/problem/remove-linked-list-elements/
 - http://www.lintcode.com/zh-cn/problem/fibonacci/
+- http://www.lintcode.com/zh-cn/problem/a-b-problem/
 
 # Ref
 - [算法学习笔记](http://www.code123.cc/docs/leetcode-notes/index.html)
