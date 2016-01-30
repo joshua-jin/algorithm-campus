@@ -1,5 +1,5 @@
 # algorithm-campus
-[lintcode](http://lintcode.com) 上的算法提答案，所有程序基于 Java 编写。
+[lintcode](http://lintcode.com) 上的算法提答案，现包括 Java, C++, Python 的解答。
 
 # 答题进度
 ## Week 1
@@ -7,9 +7,9 @@
 - [x] 452-删除列表中的元素(http://www.lintcode.com/zh-cn/problem/remove-linked-list-elements/)
 
 ## Week 2
-1-A + B 问题(http://www.lintcode.com/zh-cn/problem/a-b-problem/)  
-408-二进制求和(http://www.lintcode.com/zh-cn/problem/add-binary/)  
-167-链表求和(http://www.lintcode.com/zh-cn/problem/add-two-numbers/)  
+- [x] 1-A + B 问题(http://www.lintcode.com/zh-cn/problem/a-b-problem/)  
+- [x] 408-二进制求和(http://www.lintcode.com/zh-cn/problem/add-binary/)  
+- [x] 167-链表求和(http://www.lintcode.com/zh-cn/problem/add-two-numbers/)  
 
 ## Week 3
 67-二叉树的中序遍历(http://www.lintcode.com/problem/binary-tree-inorder-traversal)  
