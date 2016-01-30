@@ -10,3 +10,9 @@
 1-A + B 问题(http://www.lintcode.com/zh-cn/problem/a-b-problem/)  
 408-二进制求和(http://www.lintcode.com/zh-cn/problem/add-binary/)  
 167-链表求和(http://www.lintcode.com/zh-cn/problem/add-two-numbers/)  
+
+## Week 3
+67-二叉树的中序遍历(http://www.lintcode.com/problem/binary-tree-inorder-traversal)  
+480-二叉树的所有路径(http://www.lintcode.com/problem/binary-tree-paths)  
+68-二叉树的后序遍历(http://www.lintcode.com/problem/binary-tree-postorder-traversal)  
+66-二叉树的前序遍历(http://www.lintcode.com/problem/binary-tree-preorder-traversal)  
