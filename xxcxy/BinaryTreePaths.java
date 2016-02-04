@@ -1,10 +1,7 @@
 package algorithm.lintcode.easy;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
 
 public class BinaryTreePaths {
 
@@ -19,35 +16,23 @@ public class BinaryTreePaths {
     }
 
     public List<String> binaryTreePaths(TreeNode root) {
-        Set<String> result = new HashSet<>();
+        List<String> result = new ArrayList<>();
         if (root != null) {
-            result.add(String.valueOf(root.val));
-            if (root.left != null || root.right != null) {
-                result = union(appendNode(root.left, result),
-                        appendNode(root.right, result));
-            }
+            appendPath(root, "", result);
         }
-        return new ArrayList<>(result);
-    }
-
-    private Set<String> appendNode(TreeNode node, Set<String> original) {
-        if (node == null) {
-            return new HashSet<>();
-        }
-        Set<String> set = new HashSet<>(original.size());
-        for (String path : original) {
-            set.add(path + "->" + node.val);
-        }
-        if (node.left == null && node.right == null) {
-            return set;
-        }
-        return union(appendNode(node.left, set), appendNode(node.right, set));
-    }
-
-    private Set<String> union(final Set<String> s1, final Set<String> s2) {
-        Set<String> result = new HashSet<>(s1.size() + s2.size());
-        result.addAll(s1);
-        result.addAll(s2);
         return result;
+    }
+
+    private void appendPath(TreeNode node, String path, List<String> result) {
+        path = path + node.val;
+        if(node.left == null && node.right == null) {
+            result.add(path);
+        }
+        if(node.left != null) {
+            appendPath(node.left, path + "->", result);
+        }
+        if(node.right != null) {
+            appendPath(node.right, path + "->", result);
+        }
     }
 }
