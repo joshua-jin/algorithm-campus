@@ -37,6 +37,5 @@ class Solution:
             return None
         if head.val == val:
             return self.removeElements(head.next, val)
-        i = self.removeElements(head.next, val)
-        head.next = i
+        head.next = self.removeElements(head.next, val)
         return head
