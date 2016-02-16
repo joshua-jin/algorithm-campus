@@ -28,6 +28,8 @@
 14-二分查找(http://www.lintcode.com/zh-cn/problem/first-position-of-target/)   
 9-Fizz Buzz问题(http://www.lintcode.com/zh-cn/problem/fizz-buzz/)   
 453-将二叉树拆成链表(http://www.lintcode.com/zh-cn/problem/flatten-binary-tree-to-linked-list/)   
+
+## Week 5
 181-将整数 A 转换为 B(http://www.lintcode.com/zh-cn/problem/flip-bits/)   
 488-快乐数(http://www.lintcode.com/zh-cn/problem/happy-number/)   
 128-哈希函数(http://www.lintcode.com/zh-cn/problem/hash-function/)   
