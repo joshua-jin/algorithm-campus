@@ -35,3 +35,10 @@
 128-哈希函数(http://www.lintcode.com/zh-cn/problem/hash-function/)   
 469-等价二叉树(http://www.lintcode.com/zh-cn/problem/identical-binary-tree/)   
 30-插入区间(http://www.lintcode.com/problem/insert-interval)   
+
+## Week 6
+85-在二叉树中插入节点(http://www.lintcode.com/zh-cn/problem/insert-node-in-a-binary-search-tree/)   
+173-链表插入排序(http://www.lintcode.com/zh-cn/problem/insertion-sort-list/)   
+175-反转二叉树(http://www.lintcode.com/zh-cn/problem/invert-binary-tree/)   
+422-最后一个单次的长度(http://www.lintcode.com/zh-cn/problem/length-of-last-word/)   
+397-最长上升连续子序列(http://www.lintcode.com/zh-cn/problem/longest-increasing-continuous-subsequence/)   
