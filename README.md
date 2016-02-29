@@ -40,5 +40,12 @@
 85-在二叉树中插入节点(http://www.lintcode.com/zh-cn/problem/insert-node-in-a-binary-search-tree/)   
 173-链表插入排序(http://www.lintcode.com/zh-cn/problem/insertion-sort-list/)   
 175-反转二叉树(http://www.lintcode.com/zh-cn/problem/invert-binary-tree/)   
-422-最后一个单次的长度(http://www.lintcode.com/zh-cn/problem/length-of-last-word/)   
+422-最后一个单词的长度(http://www.lintcode.com/zh-cn/problem/length-of-last-word/)   
 397-最长上升连续子序列(http://www.lintcode.com/zh-cn/problem/longest-increasing-continuous-subsequence/)   
+
+## Week 7
+133-最长单词(http://www.lintcode.com/zh-cn/problem/longest-words/)   
+46-主元素(http://www.lintcode.com/zh-cn/problem/majority-number/)   
+185-矩阵的之字型遍历(http://www.lintcode.com/zh-cn/problem/matrix-zigzag-traversal/)   
+97-二叉树的最大深度(http://www.lintcode.com/zh-cn/problem/maximum-depth-of-binary-tree/)   
+41-最大子数组(http://www.lintcode.com/zh-cn/problem/maximum-subarray/)   
