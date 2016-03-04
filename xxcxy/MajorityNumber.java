@@ -8,10 +8,8 @@ public class MajorityNumber {
     public int majorityNumber(ArrayList<Integer> nums) {
         Map<Integer, Integer> numCountMap = new HashMap<>();
         for (Integer num : nums) {
-            if (!numCountMap.containsKey(num)) {
-                numCountMap.put(num, 0);
-            }
-            int numCount = numCountMap.get(num) + 1;
+            Integer currentCount = numCountMap.get(num);
+            int numCount = currentCount == null ? 1 : (currentCount + 1);
             if (numCount * 2 > nums.size()) {
                 return num;
             }

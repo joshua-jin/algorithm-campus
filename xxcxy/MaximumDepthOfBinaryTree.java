@@ -5,10 +5,7 @@ public class MaximumDepthOfBinaryTree {
         if (root == null) {
             return 0;
         }
-        return 1 + max(maxDepth(root.left), maxDepth(root.right));
+        return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
     }
 
-    private int max(int left, int right) {
-        return left > right ? left : right;
-    }
 }

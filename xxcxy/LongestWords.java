@@ -7,14 +7,13 @@ public class LongestWords {
         int longest = 0;
         ArrayList<String> longestList = new ArrayList<>();
         for (String str : dictionary) {
-            if (str.length() < longest) {
-                continue;
-            }
-            if (str.length() > longest) {
+            if (str.length() == longest) {
+                longestList.add(str);
+            } else if (str.length() > longest) {
+                longestList.clear();
+                longestList.add(str);
                 longest = str.length();
-                longestList = new ArrayList<>();
             }
-            longestList.add(str);
         }
         return longestList;
     }
