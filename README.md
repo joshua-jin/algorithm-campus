@@ -49,3 +49,10 @@
 185-矩阵的之字型遍历(http://www.lintcode.com/zh-cn/problem/matrix-zigzag-traversal/)   
 97-二叉树的最大深度(http://www.lintcode.com/zh-cn/problem/maximum-depth-of-binary-tree/)   
 41-最大子数组(http://www.lintcode.com/zh-cn/problem/maximum-subarray/)   
+
+## Week 8
+80-中位数(http://www.lintcode.com/zh-cn/problem/median/)  
+156-合并区间(http://www.lintcode.com/zh-cn/problem/merge-intervals/)  
+64-合并排序数组 II(http://www.lintcode.com/zh-cn/problem/merge-sorted-array/)  
+6-合并排序数组(http://www.lintcode.com/zh-cn/problem/merge-sorted-array-ii/)  
+165-合并两个排序链表(http://www.lintcode.com/zh-cn/problem/merge-two-sorted-lists/)  
