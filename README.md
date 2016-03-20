@@ -63,3 +63,10 @@
 44-最小子数组(http://www.lintcode.com/zh-cn/problem/minimum-subarray/)  
 166-链表倒数第n个节点(http://www.lintcode.com/zh-cn/problem/nth-to-last-node-in-list/)  
 433-岛屿的个数(http://www.lintcode.com/zh-cn/problem/number-of-islands/)  
+
+## Week 10
+142-O(1)时间检测2的幂次(http://www.lintcode.com/problem/o1-check-power-of-2)  
+514-Paint Fence(http://www.lintcode.com/problem/paint-fence)  
+373-奇偶分割数组(http://www.lintcode.com/problem/partition-array-by-odd-and-even)  
+96-链表划分(http://www.lintcode.com/problem/partition-list)  
+197-排列序号(http://www.lintcode.com/problem/permutation-index)  
