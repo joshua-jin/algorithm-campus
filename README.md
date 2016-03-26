@@ -64,9 +64,15 @@
 166-链表倒数第n个节点(http://www.lintcode.com/zh-cn/problem/nth-to-last-node-in-list/)  
 433-岛屿的个数(http://www.lintcode.com/zh-cn/problem/number-of-islands/)  
 
-## Week 10
+## Week 10  
 142-O(1)时间检测2的幂次(http://www.lintcode.com/problem/o1-check-power-of-2)  
 514-Paint Fence(http://www.lintcode.com/problem/paint-fence)  
 373-奇偶分割数组(http://www.lintcode.com/problem/partition-array-by-odd-and-even)  
 96-链表划分(http://www.lintcode.com/problem/partition-list)  
 197-排列序号(http://www.lintcode.com/problem/permutation-index)  
+## Week 11  
+407-加一(http://www.lintcode.com/zh-cn/problem/plus-one/)  
+50-数组剔除元素后的乘积(http://www.lintcode.com/zh-cn/problem/product-of-array-exclude-itself/)  
+39-恢复旋转排序数组(http://www.lintcode.com/problem/recover-rotated-sorted-array)   
+100-删除排序数组中的重复数字(http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-array/)   
+101-删除排序数组中的重复数字 II(http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-array-ii/)   
