@@ -76,3 +76,10 @@
 39-恢复旋转排序数组(http://www.lintcode.com/problem/recover-rotated-sorted-array)   
 100-删除排序数组中的重复数字(http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-array/)   
 101-删除排序数组中的重复数字 II(http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-array-ii/)   
+
+## Week 12
+112-删除排序链表中的重复元素(http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-list/)  
+172-删除元素(http://www.lintcode.com/zh-cn/problem/remove-element/)  
+174-删除链表中倒数第n个节点(http://www.lintcode.com/zh-cn/problem/remove-nth-node-from-end-of-list/)  
+413-反转整数(http://www.lintcode.com/zh-cn/problem/reverse-integer/)  
+35-翻转链表(http://www.lintcode.com/zh-cn/problem/reverse-linked-list/)  
