@@ -83,3 +83,10 @@
 174-删除链表中倒数第n个节点(http://www.lintcode.com/zh-cn/problem/remove-nth-node-from-end-of-list/)  
 413-反转整数(http://www.lintcode.com/zh-cn/problem/reverse-integer/)  
 35-翻转链表(http://www.lintcode.com/zh-cn/problem/reverse-linked-list/)  
+
+## Week 13
+53-翻转字符串(http://www.lintcode.com/zh-cn/problem/reverse-words-in-a-string/)    
+8-旋转字符串(http://www.lintcode.com/zh-cn/problem/rotate-string/)  
+60-搜索插入位置(http://www.lintcode.com/zh-cn/problem/search-insert-position/)  
+28-搜索二维矩阵(http://www.lintcode.com/zh-cn/problem/search-a-2d-matrix/)  
+82-落单的数(http://www.lintcode.com/zh-cn/problem/single-number/)  
