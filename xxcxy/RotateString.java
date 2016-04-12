@@ -5,19 +5,21 @@ public class RotateString {
         if (str == null || str.length == 0) {
             return;
         }
-        offset %= str.length;
+        int length = str.length;
+        offset %= length;
         if (offset == 0) {
             return;
         }
-        ratateOne(str);
-        rotateString(str, offset - 1);
+        reverse(str, 0, length - offset - 1);
+        reverse(str, length - offset, length - 1);
+        reverse(str, 0, length - 1);
     }
 
-    private void ratateOne(char[] str) {
-        char t = str[str.length - 1];
-        for (int i = str.length - 1; i > 0; i--) {
-            str[i] = str[i - 1];
+    private void reverse(char[] str, int startIndex, int endIndex) {
+        while (startIndex < endIndex) {
+            char startChar = str[startIndex];
+            str[startIndex++] = str[endIndex];
+            str[endIndex--] = startChar;
         }
-        str[0] = t;
     }
 }
