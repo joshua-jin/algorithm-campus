@@ -90,3 +90,10 @@
 60-搜索插入位置(http://www.lintcode.com/zh-cn/problem/search-insert-position/)  
 28-搜索二维矩阵(http://www.lintcode.com/zh-cn/problem/search-a-2d-matrix/)  
 82-落单的数(http://www.lintcode.com/zh-cn/problem/single-number/)  
+
+## Week 14
+204-单例(http://www.lintcode.com/zh-cn/problem/singleton/)  
+212-空格替换http://www.lintcode.com/zh-cn/problem/space-replacement/()  
+141-X的平方根(http://www.lintcode.com/zh-cn/problem/sqrtx/)  
+138-子数组之和(http://www.lintcode.com/zh-cn/problem/subarray-sum/)  
+245-子树(http://www.lintcode.com/zh-cn/problem/subtree/)  
