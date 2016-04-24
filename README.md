@@ -97,3 +97,10 @@
 141-X的平方根(http://www.lintcode.com/zh-cn/problem/sqrtx/)  
 138-子数组之和(http://www.lintcode.com/zh-cn/problem/subarray-sum/)  
 245-子树(http://www.lintcode.com/zh-cn/problem/subtree/)  
+
+## Week15
+524-Left Pad(http://www.lintcode.com/zh-cn/problem/left-pad/)  
+497-Shape Factory(http://www.lintcode.com/zh-cn/problem/shape-factory/)  
+451-两两交换链表中的节点(http://www.lintcode.com/zh-cn/problem/swap-nodes-in-pairs/)  
+496-Toy Factory(http://www.lintcode.com/zh-cn/problem/toy-factory/)  
+2-尾部的零(http://www.lintcode.com/zh-cn/problem/trailing-zeros/)  
