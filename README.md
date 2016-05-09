@@ -104,3 +104,17 @@
 451-两两交换链表中的节点(http://www.lintcode.com/zh-cn/problem/swap-nodes-in-pairs/)  
 496-Toy Factory(http://www.lintcode.com/zh-cn/problem/toy-factory/)  
 2-尾部的零(http://www.lintcode.com/zh-cn/problem/trailing-zeros/)  
+
+## Week16
+109-数字三角形(http://www.lintcode.com/zh-cn/problem/triangle/)  
+158-两个字符串是变位词(http://www.lintcode.com/zh-cn/problem/two-strings-are-anagrams/)  
+517-丑数(http://www.lintcode.com/zh-cn/problem/ugly-number/)  
+157-判断字符串是否没有重复字符(http://www.lintcode.com/zh-cn/problem/unique-characters/)  
+114-不同的路径(http://www.lintcode.com/zh-cn/problem/unique-paths/)  
+
+##Week17
+115-不同的路径II(http://www.lintcode.com/zh-cn/problem/unique-paths-ii/)  
+415-有效回文串(http://www.lintcode.com/problem/valid-palindrome)  
+423-有效的括号序列(http://www.lintcode.com/problem/valid-parentheses)  
+389-判断数独是否合法(http://www.lintcode.com/problem/valid-sudoku)  
+13-字符串查找(http://www.lintcode.com/zh-cn/problem/strstr/)  
